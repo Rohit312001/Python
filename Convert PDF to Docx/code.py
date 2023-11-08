@@ -2,9 +2,9 @@
 
 from pdf2docx import Converter
 
-pdf_file = "./Convert PDF to Docx/BlogPost_Rohit_Rajput.pdf"
+pdf_file = "./Convert PDF to Docx/Grafana-1.pdf"
 
-docx_file = "./Convert PDF to Docx/BlogPost_Rohit_Rajput.docx"
+docx_file = "./Convert PDF to Docx/Grafana-1.docx"
 
 cv = Converter(pdf_file)
 
