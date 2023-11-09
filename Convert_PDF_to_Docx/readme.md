@@ -2,7 +2,7 @@
 
 ### Pre-requisites:
 
-- So First we install the required packages named as pdf2docx
+- So First we install the required packages named as `pdf2docx`
 
 ```bash
 pip3 install pdf2docx
